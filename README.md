@@ -1,6 +1,6 @@
 # Olá, eu sou a Ana 👋
 
-Estudante de Análise e Desenvolvimento de Sistemas (conclusão prevista em dez/2026) pelo Centro Universitário Braz Cubas, com foco em desenvolvimento web.
+Estudante de Análise e Desenvolvimento de Sistemas pela Universidade Braz Cubas.
 ## 🚀 Sobre mim
 
 - 💻 Desenvolvedora Web front-end, com base em HTML, CSS, JavaScript e Bootstrap.
